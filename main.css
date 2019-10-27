@@ -1,0 +1,7 @@
+body 
+{
+	background: black;
+	background-image: url("img/background.png");
+	background-repeat: repeat-y;
+	color :white;
+}
